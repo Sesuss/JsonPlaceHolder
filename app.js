@@ -10,7 +10,6 @@ fetch("https://jsonplaceholder.typicode.com/users")
   document.getElementById("seluser").style.display = 'block'
 
 }
-
 function caruser(){
     document.getElementById("user").style.display ='block'
     document.getElementById("user").innerHTML=""
